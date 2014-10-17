@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hna:home|Door43 (hna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hna|d43-hna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hna/archive/master.zip|d43-hna.zip]]
+
+**Recent Changes**
+{{changes>ns = hna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hna|Ethnologue data]]
+
